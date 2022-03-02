@@ -1,3 +1,4 @@
+//Avila Hernandez Josue Rafale 17211500
 public class TurkeyAdapter implements Duck{
     Turkey turkey;
 
